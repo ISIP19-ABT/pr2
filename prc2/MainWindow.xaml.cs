@@ -52,7 +52,55 @@ namespace prc2
                         Console.WriteLine("Невозможно\n");
                         break;
                     }
+
                 }
+
+                else if (c[c.Length - 1] == '1') //Проверка на 1
+                {
+                    b_num = (b_num - 1) / 10;
+                    res.Text += b_num + "   Добавляем 1" + "\n";
+                    Console.WriteLine(b_num);
+                    //Console.WriteLine("edinica");
+
+                    if (b_num == a_num)
+                    {
+                        res.Text += "Возможно\n";
+                        Console.WriteLine("Возможно\n");
+                        break;
+                    }
+                    if (b_num < a_num)
+                    {
+                        res.Text += "Невозможно\n";
+                        Console.WriteLine("Невозможно\n");
+                        break;
+                    }
+                }
+
+                else if (c[c.Length - 1] == '2' || c[c.Length - 1] == '4' || c[c.Length - 1] == '6' || c[c.Length - 1] == '8' || c[c.Length - 1] == '0') //Проверка на четное
+                {
+
+                    b_num = b_num / 2;
+                    res.Text += b_num + "   Умножаем на 2" + "\n";
+                    Console.WriteLine(b_num);
+                    //Console.WriteLine("четное");
+
+                    if (b_num == a_num)
+                    {
+                        res.Text += "Возможно\n";
+                        Console.WriteLine("Возможно\n");
+                        break;
+                    }
+
+                    if (b_num < a_num)
+                    {
+                        res.Text += "Невозможно\n";
+                        Console.WriteLine("Невозможно\n");
+                        break;
+                    }
+                }
+
+                b = Convert.ToString(b_num); //Обновление значения
+                c = b.ToCharArray();
             }
 
         }
