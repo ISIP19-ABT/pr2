@@ -1,0 +1,30 @@
+C:\Users\Алишер\source\repos\prc2\prc2\obj\Debug\prc2.csprojAssemblyReference.cache
+C:\Users\Алишер\source\repos\prc2\prc2\obj\Debug\MainWindow.g.cs
+C:\Users\Алишер\source\repos\prc2\prc2\obj\Debug\App.g.cs
+C:\Users\Алишер\source\repos\prc2\prc2\obj\Debug\prc2_MarkupCompile.cache
+C:\Users\Алишер\source\repos\prc2\prc2\obj\Debug\prc2_MarkupCompile.lref
+C:\Users\Алишер\source\repos\prc2\prc2\bin\Debug\prc2.exe.config
+C:\Users\Алишер\source\repos\prc2\prc2\bin\Debug\prc2.exe
+C:\Users\Алишер\source\repos\prc2\prc2\bin\Debug\prc2.pdb
+C:\Users\Алишер\source\repos\prc2\prc2\obj\Debug\MainWindow.baml
+C:\Users\Алишер\source\repos\prc2\prc2\obj\Debug\prc2.g.resources
+C:\Users\Алишер\source\repos\prc2\prc2\obj\Debug\prc2.Properties.Resources.resources
+C:\Users\Алишер\source\repos\prc2\prc2\obj\Debug\prc2.csproj.GenerateResource.cache
+C:\Users\Алишер\source\repos\prc2\prc2\obj\Debug\prc2.csproj.CoreCompileInputs.cache
+C:\Users\Алишер\source\repos\prc2\prc2\obj\Debug\prc2.exe
+C:\Users\Алишер\source\repos\prc2\prc2\obj\Debug\prc2.pdb
+C:\Users\Алишер\Desktop\Новая папка (2)\prc2\prc2\bin\Debug\prc2.exe.config
+C:\Users\Алишер\Desktop\Новая папка (2)\prc2\prc2\bin\Debug\prc2.exe
+C:\Users\Алишер\Desktop\Новая папка (2)\prc2\prc2\bin\Debug\prc2.pdb
+C:\Users\Алишер\Desktop\Новая папка (2)\prc2\prc2\obj\Debug\prc2.csprojAssemblyReference.cache
+C:\Users\Алишер\Desktop\Новая папка (2)\prc2\prc2\obj\Debug\MainWindow.g.cs
+C:\Users\Алишер\Desktop\Новая папка (2)\prc2\prc2\obj\Debug\App.g.cs
+C:\Users\Алишер\Desktop\Новая папка (2)\prc2\prc2\obj\Debug\prc2_MarkupCompile.cache
+C:\Users\Алишер\Desktop\Новая папка (2)\prc2\prc2\obj\Debug\prc2_MarkupCompile.lref
+C:\Users\Алишер\Desktop\Новая папка (2)\prc2\prc2\obj\Debug\MainWindow.baml
+C:\Users\Алишер\Desktop\Новая папка (2)\prc2\prc2\obj\Debug\prc2.g.resources
+C:\Users\Алишер\Desktop\Новая папка (2)\prc2\prc2\obj\Debug\prc2.Properties.Resources.resources
+C:\Users\Алишер\Desktop\Новая папка (2)\prc2\prc2\obj\Debug\prc2.csproj.GenerateResource.cache
+C:\Users\Алишер\Desktop\Новая папка (2)\prc2\prc2\obj\Debug\prc2.csproj.CoreCompileInputs.cache
+C:\Users\Алишер\Desktop\Новая папка (2)\prc2\prc2\obj\Debug\prc2.exe
+C:\Users\Алишер\Desktop\Новая папка (2)\prc2\prc2\obj\Debug\prc2.pdb
